@@ -2,9 +2,9 @@
  a application for memorize your note and diaries    
 
 
-Prerequisites
+# Prerequisites
 android 4.4 +
-Give examples
+
 # Installing
 for installin g just copier the folder in your desktop and open it with android studio
 
