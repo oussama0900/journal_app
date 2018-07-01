@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "989912370516",
+    "firebase_url": "https://udacity-test-a0b97.firebaseio.com",
+    "project_id": "udacity-test-a0b97",
+    "storage_bucket": "udacity-test-a0b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989912370516:android:c0cd080eca361f6b",
+        "android_client_info": {
+          "package_name": "com.oussama.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989912370516-54gd2gilhnod0pcusgviqlei870dctm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrious.notebook",
+            "certificate_hash": "c8999535a4e750d2a7eafbd19bc7128028116c64"
+          }
+        },
+        {
+          "client_id": "989912370516-34qpm6e2v0frmsa3ec2ejsb6gom5ugl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD77q5MEVlbg5rR6d9Nc2rFE12QaHSFJzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989912370516-34qpm6e2v0frmsa3ec2ejsb6gom5ugl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
